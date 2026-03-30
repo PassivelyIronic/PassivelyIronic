@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔬 Currently working on machine learning model comparison<br><br>🤝 Looking to collaborate on ML projects, open-source tools, or educational content<br><br>📚 Currently learning machine learning, including model evaluation, interpretability, and tuning<br><br>🧠 Interested in data science, AI applications, and hands-on experimentation<br><br>🚀 Open to new ideas and collaborations!
+🔬 Currently working on TIME-WINDOW PREDICTION MODEL FOR TRAUMATIC
+HEMORRHAGIC SHOCK <br><br>🤝 Looking to collaborate on ML projects, open-source tools, or educational content<br><br>📚 Currently learning machine learning, including model evaluation, interpretability, and tuning<br><br>🧠 Interested in data science, AI applications, and hands-on experimentation<br><br>🚀 Open to new ideas and collaborations!
 
 
 ## 🌐 Socials:
