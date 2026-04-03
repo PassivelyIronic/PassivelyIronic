@@ -33,17 +33,3 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost) 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-
-
-# 🔬 Featured Research: THS Prediction Model
-
-Replication of a clinical study using the **MIMIC-III** database to proactively detect shock.
-
-* **Performance**: Achieved an **AUROC of 0.935** for a 0.5h window using vital signs alone.
-
-* **Enhanced Accuracy**: Performance increased to **AUROC 0.968** when integrating laboratory results (VS+RB+BG) for a 1h window.
-
-* **Interpretability**: Applied **SHAP (SHapley Additive exPlanations)** to analyze clinical feature importance (Shock Index, Hemoglobin, Lactate).
-
-* **Stepped Architecture**: Designed to adapt to different clinical scenarios—from pre-hospital settings (Vital Signs) to in-hospital intensive care (Lab Data).
