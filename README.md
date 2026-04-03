@@ -38,7 +38,7 @@
 
 # 🔬 Featured Research: THS Prediction Model
 
-Replication of a clinical study using the **MIMIC-III** and **PLAGH-ERD** databases to proactively detect shock.
+Replication of a clinical study using the **MIMIC-III** database to proactively detect shock.
 
 * **Performance**: Achieved an **AUROC of 0.935** for a 0.5h window using vital signs alone.
 
