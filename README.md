@@ -18,8 +18,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 # 🔬 Featured Research: THS Prediction Model
-[cite_start]Replication of a clinical study using the **MIMIC-III** and **PLAGH-ERD** databases to proactively detect shock[cite: 66].
-* [cite_start]**Performance**: Achieved an **AUROC of 0.935** for a 0.5h window using vital signs alone[cite: 249].
-* [cite_start]**Enhanced Accuracy**: Performance increased to **AUROC 0.968** when integrating laboratory results (VS+RB+BG) for a 1h window[cite: 307].
-* [cite_start]**Interpretability**: Applied **SHAP (SHapley Additive exPlanations)** to analyze clinical feature importance (Shock Index, Hemoglobin, Lactate)[cite: 150, 218, 239].
-* [cite_start]**Stepped Architecture**: Designed to adapt to different clinical scenarios—from pre-hospital settings (Vital Signs) to in-hospital intensive care (Lab Data)[cite: 109, 453].
+Replication of a clinical study using the **MIMIC-III** and **PLAGH-ERD** databases to proactively detect shock.
+* **Performance**: Achieved an **AUROC of 0.935** for a 0.5h window using vital signs alone.
+* **Enhanced Accuracy**: Performance increased to **AUROC 0.968** when integrating laboratory results (VS+RB+BG) for a 1h window.
+* **Interpretability**: Applied **SHAP (SHapley Additive exPlanations)** to analyze clinical feature importance (Shock Index, Hemoglobin, Lactate).
+* **Stepped Architecture**: Designed to adapt to different clinical scenarios—from pre-hospital settings (Vital Signs) to in-hospital intensive care (Lab Data).
