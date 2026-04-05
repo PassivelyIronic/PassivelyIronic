@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">Data Science Student & AI Engineer from Poland</h3>
+<h3 align="center">Data Science Student & ML/AI Engineer from Poland</h3>
 
 # 💫 About Me:
 🎓 **Currently studying**: Data Science. I focus on bridging the gap between rigorous ML research and production-ready software engineering.
