@@ -4,7 +4,7 @@
 # 💫 About Me:
 🎓 **Currently studying**: Data Science. I focus on bridging the gap between rigorous ML research and production-ready software engineering.
 
-[cite_start]🔬 **Currently working on**: Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS)[cite: 12]. [cite_start]I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets—Vital Signs (VS), Routine Blood (RB), and Blood Gas (BG)—to predict shock onset up to 3 hours in advance[cite: 18].
+🔬 **Currently working on**: Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets—Vital Signs (VS), Routine Blood (RB), and Blood Gas (BG)—to predict shock onset up to 3 hours in advance.
 
 🤖 **AI Engineering Focus**: Building modern AI pipelines. Actively developing projects using Vision LLMs for automated data extraction, building RAG (Retrieval-Augmented Generation) systems, and learning LLM fine-tuning alongside robust evaluation frameworks (LLM-as-a-judge).
 
