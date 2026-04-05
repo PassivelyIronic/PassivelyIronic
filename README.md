@@ -13,13 +13,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-arczewski-7b2978368/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakubarczewski@gmail.com) 
 
-# 🔬 Featured Research: THS Prediction Model
-[cite_start]Replication of a clinical study using the **MIMIC-III** and **PLAGH-ERD** databases to proactively detect shock[cite: 14].
-* [cite_start]**Performance**: Achieved an **AUROC of 0.935** for a 0.5h window using vital signs alone[cite: 20].
-* [cite_start]**Enhanced Accuracy**: Performance increased to **AUROC 0.968** when integrating laboratory results (VS+RB+BG) for a 1h window[cite: 20, 307].
-* [cite_start]**Interpretability**: Applied **SHAP (SHapley Additive exPlanations)** to analyze clinical feature importance (Shock Index, Hemoglobin, Lactate)[cite: 28, 150].
-* [cite_start]**Stepped Architecture**: Designed to adapt to different clinical scenarios—from pre-hospital settings (Vital Signs) to in-hospital intensive care (Lab Data)[cite: 448, 462].
-
 # 💻 Tech Stack:
 
 ### 🧠 AI & Data Science
