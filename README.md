@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student & ML/AI Engineer from Poland</h3>
 
 # 💫 About Me:
-🎓 **Currently studying**: Data Science. I focus on bridging the gap between rigorous ML research and production-ready software engineering.
+🎓 **Currently studying**: Data Science. I focus on bridging the gap between ML/AI research and production-ready software engineering.
 
 🔬 **Currently working on**: Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets—Vital Signs (VS), Routine Blood (RB), and Blood Gas (BG)—to predict shock onset up to 3 hours in advance.
 
