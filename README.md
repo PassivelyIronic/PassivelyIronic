@@ -6,9 +6,9 @@
 
 🔬 **Currently working on**: Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets—Vital Signs (VS), Routine Blood (RB), and Blood Gas (BG)—to predict shock onset up to 3 hours in advance.
 
-🤖 **AI Engineering Focus**: Building modern AI pipelines. Actively developing projects using Vision LLMs for automated data extraction, building RAG (Retrieval-Augmented Generation) systems, and learning LLM fine-tuning alongside robust evaluation frameworks (LLM-as-a-judge).
+🤖 **AI Engineering Focus**: Building modern AI pipelines. Actively developing projects using LLMs for automated data extraction, building RAG (Retrieval-Augmented Generation) systems, and learning LLM fine-tuning alongside robust evaluation frameworks (LLM-as-a-judge).
 
-⚙️ **System Architecture**: Applying scalable backend patterns (C#/.NET microservices, Saga, CQRS) to reliably deploy and orchestrate AI models and agents.
+⚙️ **System Architecture**: Applying scalable backend patterns to reliably deploy and orchestrate AI models and agents.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-arczewski-7b2978368/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakubarczewski@gmail.com) 
