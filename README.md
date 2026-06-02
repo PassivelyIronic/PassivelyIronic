@@ -6,7 +6,7 @@ I am a Data Science student based in Poland, passionate about bridging the gap b
 ### What I'm currently working on
 * **Predictive Healthcare AI:** Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets to predict shock onset up to 3 hours in advance.
 * **LLM & RAG Systems:** Building modern AI pipelines, automated data extraction tools, and Retrieval-Augmented Generation (RAG) applications.
-* **Advanced Backend Architecture:** Implementing scalable patterns like CQRS and Event Sourcing in .NET environments to handle complex business logic reliably.
+* **Backend Architecture:** Implementing scalable patterns like CQRS and Event Sourcing in .NET environments to handle complex business logic reliably.
 * **Cross-Platform Development:** Building native mobile and desktop applications utilizing the .NET MAUI framework and Kotlin.
 
 ### Connect with me
@@ -27,8 +27,3 @@ I am a Data Science student based in Poland, passionate about bridging the gap b
 
 **Web & Frontend**  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br>
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=PassivelyIronic&icon=0&color=0" alt="Profile Views" />
-</p>
