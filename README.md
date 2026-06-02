@@ -1,13 +1,13 @@
-# Jakub Arczewski
+# HI, I'm Jake
 **Data Science Student | ML/AI Engineer | .NET Backend Developer**
 
 I am a Data Science student based in Poland, passionate about bridging the gap between Machine Learning research and scalable software engineering. My focus is not only on training and evaluating AI models but also on building robust, production-ready backend architectures to orchestrate them.
 
 ### What I'm currently working on
-* **Predictive Healthcare AI:** Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets to predict shock onset up to 3 hours in advance[cite: 2].
-* **LLM & RAG Systems:** Building modern AI pipelines, automated data extraction tools, and Retrieval-Augmented Generation (RAG) applications[cite: 3].
-* **Advanced Backend Architecture:** Implementing scalable patterns like CQRS and Event Sourcing in .NET environments to handle complex business logic reliably[cite: 9].
-* **Cross-Platform Development:** Building native mobile and desktop applications utilizing the .NET MAUI framework[cite: 8, 10].
+* **Predictive Healthcare AI:** Reproducing and optimizing a Time-Window Prediction Model for Traumatic Hemorrhagic Shock (THS). I implement interpretable Machine Learning (XGBoost & SHAP) using stepped feature sets to predict shock onset up to 3 hours in advance.
+* **LLM & RAG Systems:** Building modern AI pipelines, automated data extraction tools, and Retrieval-Augmented Generation (RAG) applications.
+* **Advanced Backend Architecture:** Implementing scalable patterns like CQRS and Event Sourcing in .NET environments to handle complex business logic reliably.
+* **Cross-Platform Development:** Building native mobile and desktop applications utilizing the .NET MAUI framework and Kotlin.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-arczewski-7b2978368/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakubarczewski@gmail.com) 
